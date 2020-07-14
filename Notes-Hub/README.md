@@ -1,4 +1,4 @@
-# College-Notes-Gallery
+# Notes-Hub
 ## A notes management system which helps users to upload,download and manage notes of their particular course. The whole system is coded in core PHP and MySqli
 
 
@@ -43,5 +43,5 @@ password: userpass
 - Add search notes option
 
 
-### License
-College Notes Gallery is released under the MIT License
+
+
